@@ -17,7 +17,7 @@ insert_anchor_links = "right"
 
 - [#hardware](ircs://irc.libera.chat:6697#hardware) (The main channel for mostly on topic discussion)
 - [#hardware-ops](ircs://irc.libera.chat:6697#hardware-ops) (Admin problems? Join us)
-- [#hardware-social](ircs://irc.libera.chat:6697#hardware-social) (A relaxed channel for the community)
+- [#hardware-offtopic](ircs://irc.libera.chat:6697#hardware-offtopic) (A relaxed channel for the community)
 
 ### Want to Contribute?
 
