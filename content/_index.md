@@ -12,3 +12,7 @@ insert_anchor_links = "right"
 - User-sourced benchmarks (such as PassMark) are not reliable comparison tools and are not to be treated as such. 
 - No religion, politics, cryptocurrency talk, or unfair discrimination. 
 - Admin problems? Join us in [#hardware-ops](ircs://irc.libera.chat:6697#hardware-ops).
+
+### Want to Contribute?
+
+Fork us on https://github.com/libera-hardware/website
