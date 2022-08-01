@@ -13,6 +13,12 @@ insert_anchor_links = "right"
 - No religion, politics, cryptocurrency talk, or unfair discrimination. 
 - Admin problems? Join us in [#hardware-ops](ircs://irc.libera.chat:6697#hardware-ops).
 
+### Our Channels
+
+- [#hardware](ircs://irc.libera.chat:6697#hardware) (The main channel for mostly on topic discussion)
+- [#hardware-ops](ircs://irc.libera.chat:6697#hardware-ops) (Admin problems? Join us)
+- [#hardware-social](ircs://irc.libera.chat:6697#hardware-social) (A relaxed channel for the community)
+
 ### Want to Contribute?
 
 Fork us on https://github.com/libera-hardware/website
