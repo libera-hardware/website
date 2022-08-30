@@ -1,5 +1,5 @@
 +++
-title = "Docsascode title"
+title = "#hardware Community Website"
 sort_by = "date"
 insert_anchor_links = "right"
 +++
