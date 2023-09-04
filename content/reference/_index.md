@@ -27,6 +27,17 @@ insert_anchor_links = "right"
 ### Other 
 
 - [WikiChip](https://en.wikichip.org/)
+  
+  WikiChip is self described as the preeminent resource for computer architectures and semiconductor logic engineering, covering historical and contemporary electronic systems, technologies, and related topics.
+
+### Tools
+- [PcPartPicker](https://pcpartpicker.com/)
+  
+  A tool to assist with pc parts selection, provides compatibility guidance, price aggregation and the ability to easily share computer builds.
+  
+- [Crucial Upgrade Tool](https://www.crucial.com/upgrades)
+ 
+  Provides an easy way to find compatible (Crucial/Micron) storage and memory for your devices, particularlly useful for hard to find laptops.
 
 ### Staff
 
