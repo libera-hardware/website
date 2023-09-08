@@ -20,8 +20,16 @@ insert_anchor_links = "right"
 ### Notable folks
 
 - [Ian Cutress](https://morethanmoore.substack.com/p/coming-soon?showWelcome=true)
+
+  Previously the lead writer for Anandtech. Ian Cutress has since branched out onto their own doing consulting in the Semi-Conductor business.
+  
 - [Aris Mpitziopoulos](https://www.tomshardware.com/author/aris-mpitziopoulos)
+
+  Contributing editor to many notable sites, including, Igors Lab, TechPowerUp and Toms Hardware. Aris is also currently the CEO and Chief Test Engineer for Cybenetics.
+  
 - [Igor Wallossek](https://www.igorslab.de/en/author/igor-wallossek/)
+
+  Editor-in-cheif for Tom's Hardware Germany (now succeded by igor'sLAB).
 
 
 ### Other 
@@ -38,6 +46,11 @@ insert_anchor_links = "right"
 - [Crucial Upgrade Tool](https://www.crucial.com/upgrades)
  
   Provides an easy way to find compatible (Crucial/Micron) storage and memory for your devices, particularlly useful for hard to find laptops.
+
+- [MemTest86+](https://www.memtest.org/)
+
+  Memtest86+ is a stand-alone memory tester for x86 and x86-64 architecture computers. It provides a more thorough memory check than that provided by BIOS memory tests.
+  A useful tool to validate the stability of memory, preferred to the [commierical version](https://www.memtest86.com/) as it'll run continously.
 
 ### Staff
 
