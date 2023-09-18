@@ -16,6 +16,7 @@ insert_anchor_links = "right"
 - [Techspot](https://techspot.com)
 - [Hardware Unboxed](https://www.youtube.com/c/Hardwareunboxednow/videos)
 - [Monitors Unboxed](https://www.youtube.com/channel/UCDKLZBNM9XZ7pHPZF9D8xDQ)
+- [Hardware Busters](https://hwbusters.com/)
 
 ### Notable folks
 
@@ -30,6 +31,13 @@ insert_anchor_links = "right"
 - [Igor Wallossek](https://www.igorslab.de/en/author/igor-wallossek/)
 
   Editor-in-cheif for Tom's Hardware Germany (now succeded by igor'sLAB).
+
+### Industry News, Research Analysis
+
+- <https://chipsandcheese.com/>
+- <https://morethanmoore.substack.com/>
+- <https://semiaccurate.com/>
+- <https://semiwiki.com>
 
 
 ### Other 
