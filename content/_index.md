@@ -47,6 +47,20 @@ Other symptoms include:
 - [#hardware-ops](ircs://irc.libera.chat:6697#hardware-ops) (Admin problems? Join us)
 - [#hardware-offtopic](ircs://irc.libera.chat:6697#hardware-offtopic) (A relaxed channel for the community)
 
+### Getting Unbanned
+
+First and foremost, always treat staff members with respect. In #hardware-ops, you can openly discuss the ban or quiet that has been imposed. This designated channel serves as a platform for users to address their concerns and seek clarification on the reasons behind the ban.
+
+If you firmly believe that the ban was a mistake or there has been a misunderstanding, make your case in #hardware-ops. However, it's essential to keep your argument concise and focused. The key to a successful appeal lies in demonstrating a clear understanding of the behavior that led to the ban.
+
+When appealing a ban or quiet, the staff typically expect three key elements:
+
+1. Demonstrated Understanding: Clearly articulate your understanding of the specific behavior that led to the ban. This shows that you've reflected on the issue and are aware of what went wrong.
+
+2. Expression of Remorse: Express genuine remorse for your actions. Acknowledge the impact of your behavior on the community and the importance of maintaining a positive atmosphere on the IRC channel.
+
+3. Pledge/Affirmation for the Future: Assure the staff that you have learned from the experience and are committed to avoiding similar behavior in the future. A sincere pledge to uphold the community guidelines can go a long way in convincing the staff of your intent to contribute positively to the channel.
+
 ### Want to Contribute?
 
 Fork us on [Github!](https://github.com/libera-hardware/website)
