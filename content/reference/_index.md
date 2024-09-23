@@ -13,7 +13,8 @@ Specialised towards Linux, Phoronix is an essential source of Hardware Reviews a
 
 #### [Anandtech](https://www.anandtech.com/)
 
-One of the oldest computer publicaitons still around, whilst far from its glory days with Ian Cutress or Gary Key, it is still a reputable source.
+Now defunct, it is one of the oldest computer publicaitons still around, whilst far from its glory days with Ian Cutress or Gary Key, it is still a reputable source.
+
 #### [Tech Power Up](https://www.techpowerup.com/)
 
 A very prolific review/news site with easy to understand data with great easy to digest reviews and aggregated graphs. Home to many useful databases, including the [SSD Database](https://www.techpowerup.com/ssd-specs/).
