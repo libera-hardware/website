@@ -1,5 +1,5 @@
 +++
-title = "Reference Information"
+title = "Reference Information & Resources"
 insert_anchor_links = "right"
 +++
 
@@ -56,6 +56,10 @@ Aris Mpitziopoulos's website, great general PC focused resource.
 #### [Puget Systems](https://www.pugetsystems.com/all-articles/)
 
 Producivity/professional workstation focused benchmarks.
+
+#### [Storage Review](https://www.storagereview.com/)
+
+StorageReview.com is a world-leading independent storage authority, providing in-depth news coverage, detailed reviews, SMB/SME consulting, and lab services on storage arrays, hard drives, SSDs, and the related hardware and software that makes these storage solutions work. Our emphasis is on storage solutions for the midmarket and enterprise, with limited coverage of core brands that offer client storage solutions.
 
 ### Notable folks
 
