@@ -12,6 +12,10 @@ insert_anchor_links = "right"
 - User-sourced benchmarks (such as PassMark) are not reliable comparison tools and are not to be treated as such. 
 - No religion, politics, cryptocurrency talk, or unfair discrimination. 
 - Admin problems? Join us in [#hardware-ops](ircs://irc.libera.chat:6697#hardware-ops).
+- Operators may exercise their discretion to moderate the channel as they see fit, for the health of the channel.
+- This is not an exhaustive list, channel members are expected to, in good faith, engage positively with each other.
+
+N.B. Not all actions taken are public.
 
 ### Channel Policies
 
