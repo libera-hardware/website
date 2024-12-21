@@ -112,6 +112,10 @@ Deep technical articles about processors, everything from micro architecture des
   Memtest86+ is a stand-alone memory tester for x86 and x86-64 architecture computers. It provides a more thorough memory check than that provided by BIOS memory tests.
   A useful tool to validate the stability of memory, preferred to the [commierical version](https://www.memtest86.com/) as it'll run continously.
 
+#### [Identiconn™ Connector Identification Utility](https://connectorbook.com/identification.html?Q=)
+
+  A utility to quickly find out what that connector is. Thanks m00se for pointing this one out!
+
 ### Staff
 
 - wof
